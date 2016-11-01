@@ -33,7 +33,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-   Jennifer Gonçalves Do Amaral
+   Jennifer Gonçalves Do Amaral<br>
    Ana Rúbia
 
 ####5.2 DECISÕES DE PROJETO
