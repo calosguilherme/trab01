@@ -28,21 +28,17 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/bdd.jpg?raw=true  "Modelo Conceitual")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/conceitual.jpg?raw=true  "Modelo Conceitual")
     
-    5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
    Jennifer Gonçalves Do Amaral<br>
    Ana Rúbia
 
 ####5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
-    
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
+**Tabela Aluno com Herança de Pessoa:** em nosso projeto optamos por utilizar a Herança do campo pessoa pois caso se necessário realizar relatórios ou consultas que envolvam além dos alunos os administradores não precisar "mesclar" duas tabelas para realizar essas operações.<br>
+
+**Campo valorCredito na Tabela Atividade:** foi optado por transformar uma tabela onde contia os valores dos creditos em um atributo na tabela atividade, visto que a quantidade de referencias que a tabela anterior iria fazer não ser em grande quantidade e acabar gerando um impacto negativo em vez de fornecer algum beneficio.<br>
 
 ####5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
@@ -53,6 +49,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ###6	MODELO LÓGICO<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/logico.jpg?raw=true  "Modelo Logico")
 ###7	MODELO FÍSICO<br>
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
