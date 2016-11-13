@@ -48,7 +48,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         codPessoa: campo que armazena o código identificador da pessoa.<br>
         senha: campo que armazena a senha da pessoa.<br>
         permissõesADM: booleano que identifica se a pessoa tem permissões de adm ou não.<br>
-    ALUNO: Tabela que recebe de herança os dados de pessoas e possui dados dos alunos que utilizam o sistema.<br>
+   ALUNO: Tabela que recebe de herança os dados de pessoas e possui dados dos alunos que utilizam o sistema.<br>
         creditos: campo que armazena os creditos que o aluno tem.<br>
         dtConclusao: campo que armazena a data aproximada da conclusão do curso do aluno.<br>
    ARQUIVO: Tabela que contem os dados dos arquivos enviados pelos alunos.<br>
@@ -57,10 +57,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         observacao: campo que contem a observacao do arquivo.<br>
         creditoAtividade: campo que contem o credito solicitado pelo arquivo enviado.<br>
         dtRealizada: campo que contem a data que atividade referente ao arquivo foi realizada.<br>
-   CATEGORIA: Tabela que contem os dados do tipo de categoria do arquivo enviado.<br>
+    CATEGORIA: Tabela que contem os dados do tipo de categoria do arquivo enviado.<br>
         codCat: campo que contem o código de identificação da categoria.<br>
         tipoCat: campo que contem o nome da categoria.<br>
-   ATIVIDADE: Tabela que contem os dados do tipo da atividade do arquivo enviado.<br>
+    ATIVIDADE: Tabela que contem os dados do tipo da atividade do arquivo enviado.<br>
         codAtividade: campo que contem o código de identificação da atividade.<br>
         tipoAtividade: campo que contem o nome da atividade realizada.<br>
         anoRegistro: campo que contem o ano que a atividade foi registrada.<br>
