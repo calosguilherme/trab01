@@ -47,8 +47,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         telefone: campo que armazena o tefelone da pessoa.<br>
         codPessoa: campo que armazena o código identificador da pessoa.<br>
         senha: campo que armazena a senha da pessoa.<br>
-        permissõesADM: booleano que identifica se a pessoa tem permissões de adm ou não.<br>
-   ALUNO: Tabela que recebe de herança os dados de pessoas e possui dados dos alunos que utilizam o sistema.<br>
+        permissõesADM: booleano que identifica se a pessoa tem permissões de adm ou não.<br>ALUNO: Tabela que recebe de herança os dados de pessoas e possui dados dos alunos que utilizam o sistema.<br>
         creditos: campo que armazena os creditos que o aluno tem.<br>
         dtConclusao: campo que armazena a data aproximada da conclusão do curso do aluno.<br>
    ARQUIVO: Tabela que contem os dados dos arquivos enviados pelos alunos.<br>
