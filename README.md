@@ -70,6 +70,52 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/logico.jpg?raw=true  "Modelo Logico")
 ###7	MODELO FÍSICO<br>
+        
+            CREATE TABLE CATEGORIA (
+            codCat INTEGER ,
+            tipoCat VARCHAR(60)
+            )
+
+            CREATE TABLE ATIVIDADE (
+            valorCredito INTEGER,
+            anoRegistro DATE,
+            codAtividade INTEGER PRIMARY KEY,
+            tipoAtividade VARCHAR(100)
+            )
+
+            CREATE TABLE ALUNO (
+            dtConclusao DATE,
+            creditos INTEGER,
+            codPessoa INTEGER
+            )
+
+            CREATE TABLE ARQUIVO (
+            codArquivo INTEGER PRIMARY KEY,
+            observacao VARCHAR(300),
+            creditoAtividade INTEGER,
+            arquivoDocumento VARCHAR(300),
+            dtRealizada DATE,
+            codAtividade INTEGER,
+            FOREIGN KEY(codAtividade) REFERENCES ATIVIDADE (codAtividade)
+            )
+
+            CREATE TABLE PESSOA (
+            senha VARCHAR(30),
+            codPessoa INTEGER PRIMARY KEY,
+            nome VARCHAR(60),
+            email VARCHAR(60),
+            permissõesADM BOOLEAN,
+            telefone VARCHAR(15)
+            )
+
+            CREATE TABLE ADICIONA (
+            codAtividade INTEGER,
+            codPessoa INTEGER,
+            PRIMARY KEY(codAtividade,codPessoa)
+            )
+
+            ALTER TABLE ALUNO ADD FOREIGN KEY(codPessoa) REFERENCES PESSOA (codPessoa)
+
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
