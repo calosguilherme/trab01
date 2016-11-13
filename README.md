@@ -41,7 +41,31 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 **Campo valorCredito na Tabela Atividade:** foi optado por transformar uma tabela onde contia os valores dos creditos em um atributo na tabela atividade, visto que a quantidade de referencias que a tabela anterior iria fazer não ser em grande quantidade e acabar gerando um impacto negativo em vez de fornecer algum beneficio.<br>
 
 ####5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
+    PESSOA: Tabeala que contem os dados das pessoas que utilizam o sistema.
+        nome: campo que armazena o nome da pessoa.
+        email: campo que armazena o email da pessoa.
+        telefone: campo que armazena o tefelone da pessoa.
+        codPessoa: campo que armazena o código identificador da pessoa.
+        senha: campo que armazena a senha da pessoa.
+        permissõesADM: booleano que identifica se a pessoa tem permissões de adm ou não.
+    ALUNO: Tabela que recebe de herança os dados de pessoas e possui dados dos alunos que utilizam o sistema.
+        creditos: campo que armazena os creditos que o aluno tem.
+        dtConclusao: campo que armazena a data aproximada da conclusão do curso do aluno.
+   ARQUIVO: Tabela que contem os dados dos arquivos enviados pelos alunos.
+        codArquivo: campo que armazena o código de identificação do arquivo.
+        arquivoDocumento: campo que contem o arquivo enviado.
+        observacao: campo que contem a observacao do arquivo.
+        creditoAtividade: campo que contem o credito solicitado pelo arquivo enviado.
+        dtRealizada: campo que contem a data que atividade referente ao arquivo foi realizada.
+   CATEGORIA: Tabela que contem os dados do tipo de categoria do arquivo enviado.
+        codCat: campo que contem o código de identificação da categoria.
+        tipoCat: campo que contem o nome da categoria.
+   ATIVIDADE: Tabela que contem os dados do tipo da atividade do arquivo enviado.
+        codAtividade: campo que contem o código de identificação da atividade.
+        tipoAtividade: campo que contem o nome da atividade realizada.
+        anoRegistro: campo que contem o ano que a atividade foi registrada.
+        valorCredito: campo que contem o valor em creditos que aquela atividade vale.
+  
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
