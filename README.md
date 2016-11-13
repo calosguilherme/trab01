@@ -119,7 +119,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
 
-        A obtenção dos dados utilizados no projeto foram obtidos através de alguns alunos do campus Serra do curso de BSI, além de informações do PROJETO PEDAGÓGICO DO CURSO DE SISTEMAS DE INFORMAÇÃO, foram realizado entrevistas com o coordenador do curso, servidores responsaeis por atuarem na parte de atividades complementares e com alunos finalistas que já precisaram apresentar tais atividades.
+        A obtenção dos dados utilizados no projeto foram obtidos através de alguns alunos do campus Serra do curso de BSI, além de informações do PROJETO PEDAGÓGICO DO CURSO DE SISTEMAS DE INFORMAÇÃO.
+        Foram realizado entrevistas com o coordenador do curso, servidores responsaeis por atuarem na parte de atividades complementares e com alunos finalistas que já precisaram apresentar tais atividades.
+        
         Fontes de estudo para desenvolvimento do projeto: http://cin.sr.ifes.edu.br/wp-content/uploads/2016/03/PPC-BSI-Serra-Revisao2014.pdf
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
