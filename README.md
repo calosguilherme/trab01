@@ -81,6 +81,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
             codAtividade INTEGER PRIMARY KEY,
             tipoAtividade VARCHAR(100)
             codCat INTEGER,
+            unidAvali VARCHAR(150),
             FOREIGN KEY(codCat) REFERENCES CATEGORIA (codCat)
             )
             )
