@@ -41,7 +41,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 **Campo valorCredito na Tabela Atividade:** foi optado por transformar uma tabela onde contia os valores dos creditos em um atributo na tabela atividade, visto que a quantidade de referencias que a tabela anterior iria fazer não ser em grande quantidade e acabar gerando um impacto negativo em vez de fornecer algum beneficio.<br>
 
 ####5.3 DESCRIÇÃO DOS DADOS <br>
-   "PESSOA: Tabeala que contem os dados das pessoas que utilizam o sistema.<br>
+   PESSOA: Tabeala que contem os dados das pessoas que utilizam o sistema.<br>
         nome: campo que armazena o nome da pessoa. <br>
         email: campo que armazena o email da pessoa.<br>
         telefone: campo que armazena o tefelone da pessoa.<br>
@@ -64,7 +64,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         codAtividade: campo que contem o código de identificação da atividade.<br>
         tipoAtividade: campo que contem o nome da atividade realizada.<br>
         anoRegistro: campo que contem o ano que a atividade foi registrada.<br>
-        valorCredito: campo que contem o valor em creditos que aquela atividade vale.<br>"
+        valorCredito: campo que contem o valor em creditos que aquela atividade vale.<br>
   
 
 ###6	MODELO LÓGICO<br>
