@@ -70,9 +70,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/logico.jpg?raw=true  "Modelo Logico")
 ###7	MODELO FÍSICO<br>
-        
             CREATE TABLE CATEGORIA (
-            codCat INTEGER ,
+            codCat INTEGER PRIMARY KEY,
             tipoCat VARCHAR(60)
             )
 
@@ -81,6 +80,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
             anoRegistro DATE,
             codAtividade INTEGER PRIMARY KEY,
             tipoAtividade VARCHAR(100)
+            codCat INTEGER,
+            FOREIGN KEY(codCat) REFERENCES CATEGORIA (codCat)
+            )
             )
 
             CREATE TABLE ALUNO (
@@ -111,7 +113,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
             CREATE TABLE ADICIONA (
             codAtividade INTEGER,
             codPessoa INTEGER,
-            PRIMARY KEY(codAtividade,codPessoa)
+            codCat INTEGER,
+            PRIMARY KEY(codAtividade,codPessoa,codCat)
             )
 
             ALTER TABLE ALUNO ADD FOREIGN KEY(codPessoa) REFERENCES PESSOA (codPessoa)
