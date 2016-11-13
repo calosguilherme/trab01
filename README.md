@@ -28,7 +28,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/conceitual.jpg?raw=true  "Modelo Conceitual")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/conceitua.jpg?raw=true  "Modelo Conceitual")
     
 
 ####5.1 Validação do Modelo Conceitual
@@ -68,7 +68,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
   
 
 ###6	MODELO LÓGICO<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/logico.jpg?raw=true  "Modelo Logico")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/logic.jpg?raw=true  "Modelo Logico")
 ###7	MODELO FÍSICO<br>
             CREATE TABLE CATEGORIA (
             codCat INTEGER PRIMARY KEY,
