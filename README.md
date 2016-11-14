@@ -68,7 +68,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
   
 
 ###6	MODELO LÓGICO<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/logico.jpg?raw=true  "Modelo Logico")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/logic.jpg?raw=true  "Modelo Logico")
 ###7	MODELO FÍSICO<br>
             CREATE TABLE CATEGORIA (
             codCat INTEGER PRIMARY KEY,
