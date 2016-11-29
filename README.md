@@ -151,6 +151,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ---------------------------------------------------------------------------------------------
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/2.png?raw=true  "Resultado")<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/5.png?raw=true  "Resultado")<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/aluno.png?raw=true  "Resultado")<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/atividade.png?raw=true  "Resultado")<br>
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/6.png?raw=true  "Resultado")<br>
