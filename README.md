@@ -137,8 +137,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 	Os dados utilizados no trabalho foram todos simulados baseados em alunos do campus IFES SERRA.
 	A inserção deles foram todas feitas de maneira manual através do SQL do link abaixo.
-	Optamos pela simulação dos dados visto que não encontramos nem um banco pronto que encaixasse bem com a tematica escolhida e modelo adotado
-	<a href="https://github.com/calosguilherme/trab01/blob/master/sqlinsert.sql">LINK</a>
+	Optamos pela simulação dos dados visto que não encontramos nem um banco pronto que encaixasse bem com a tematica escolhida e modelo adotado;
+	https://github.com/calosguilherme/trab01/blob/master/sqlinsert.sql
 	
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
