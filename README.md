@@ -71,57 +71,57 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/logic.jpg?raw=true  "Modelo Logico")
 ###7	MODELO FÍSICO<br>
            
-CREATE TABLE CATEGORIA (
-codCat INTEGER PRIMARY KEY,
-tipoCat VARCHAR(60)
-);
+	CREATE TABLE CATEGORIA (
+	codCat INTEGER PRIMARY KEY,
+	tipoCat VARCHAR(60)
+	);
 
-CREATE TABLE ATIVIDADE (
-valorCredito INTEGER,
-anoRegistro DATE,
-codAtividade INTEGER PRIMARY KEY,
-tipoAtividade VARCHAR(100),
-codCat INTEGER,
-unidAvali VARCHAR(150),
-FOREIGN KEY(codCat) REFERENCES CATEGORIA (codCat)
-);
+	CREATE TABLE ATIVIDADE (
+	valorCredito INTEGER,
+	anoRegistro DATE,
+	codAtividade INTEGER PRIMARY KEY,
+	tipoAtividade VARCHAR(100),
+	codCat INTEGER,
+	unidAvali VARCHAR(150),
+	FOREIGN KEY(codCat) REFERENCES CATEGORIA (codCat)
+	);
 
-CREATE TABLE ALUNO (
-dtConclusao DATE,
-creditos INTEGER,
-matricula VARCHAR(15) PRIMARY KEY,
-codPessoa INTEGER,
-FOREIGN KEY(codPessoa) REFERENCES PESSOA (codPessoa)
-);
+	CREATE TABLE ALUNO (
+	dtConclusao DATE,
+	creditos INTEGER,
+	matricula VARCHAR(15) PRIMARY KEY,
+	codPessoa INTEGER,
+	FOREIGN KEY(codPessoa) REFERENCES PESSOA (codPessoa)
+	);
 
-CREATE TABLE ARQUIVO (
-codArquivo INTEGER PRIMARY KEY,
-observacao VARCHAR(300),
-creditoAtividade INTEGER,
-arquivoDocumento VARCHAR(300),
-dtRealizada DATE,
-matricula VARCHAR(15),
-codAtividade INTEGER
-);
+	CREATE TABLE ARQUIVO (
+	codArquivo INTEGER PRIMARY KEY,
+	observacao VARCHAR(300),
+	creditoAtividade INTEGER,
+	arquivoDocumento VARCHAR(300),
+	dtRealizada DATE,
+	matricula VARCHAR(15),
+	codAtividade INTEGER
+	);
 
-CREATE TABLE PESSOA (
-senha VARCHAR(30),
-codPessoa INTEGER PRIMARY KEY,
-nome VARCHAR(60),
-email VARCHAR(60),
-permissõesADM BOOLEAN,
-telefone VARCHAR(15)
-);
+	CREATE TABLE PESSOA (
+	senha VARCHAR(30),
+	codPessoa INTEGER PRIMARY KEY,
+	nome VARCHAR(60),
+	email VARCHAR(60),
+	permissõesADM BOOLEAN,
+	telefone VARCHAR(15)
+	);
 
-CREATE TABLE ADICIONA (
-codAtividade INTEGER,
-codPessoa INTEGER,
-codCat INTEGER,
-PRIMARY KEY(codAtividade,codPessoa,codCat)
-);
+	CREATE TABLE ADICIONA (
+	codAtividade INTEGER,
+	codPessoa INTEGER,
+	codCat INTEGER,
+	PRIMARY KEY(codAtividade,codPessoa,codCat)
+	);
 
-ALTER TABLE ARQUIVO ADD FOREIGN KEY(matricula) REFERENCES ALUNO (matricula);
-ALTER TABLE ARQUIVO ADD FOREIGN KEY(codAtividade) REFERENCES ATIVIDADE (codAtividade);
+	ALTER TABLE ARQUIVO ADD FOREIGN KEY(matricula) REFERENCES ALUNO (matricula);
+	ALTER TABLE ARQUIVO ADD FOREIGN KEY(codAtividade) REFERENCES ATIVIDADE (codAtividade);
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
     INSERT into CATEGORIA (codCat, tipoCat)
