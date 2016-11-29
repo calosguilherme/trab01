@@ -141,15 +141,47 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
-    
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/1.png?raw=true  "Resultado")
+---------------------------------------------------------------------------------------------
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/2.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/5.png?raw=true  "Resultado")
+
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/6.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/7.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/8.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/9.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/a.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/b.png?raw=true  "Resultado")
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/c.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/d.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/e.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/f.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/g.png?raw=true  "Resultado")
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/h.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/i.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/j.png?raw=true  "Resultado")
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/l.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/k.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/z.png?raw=true  "Resultado")
 ####9.6	CONSULTAS COM JUNÇÃO<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/m.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/n.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/o.png?raw=true  "Resultado")
 ####9.7	CONSULTAS COM GROUP BY<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/p.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/q.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/r.png?raw=true  "Resultado")
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/s.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/t.png?raw=true  "Resultado")
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/u.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/v.png?raw=true  "Resultado")
+![Alt text](https://github.com/calosguilherme/trab01/blob/master/x.png?raw=true  "Resultado")
 ####9.10	SUBCONSULTAS<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
