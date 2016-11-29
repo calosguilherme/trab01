@@ -135,7 +135,11 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         Fontes de estudo para desenvolvimento do projeto: http://cin.sr.ifes.edu.br/wp-content/uploads/2016/03/PPC-BSI-Serra-Revisao2014.pdf
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-	https://github.com/calosguilherme/trab01/blob/master/sqlinsert.sql
+	Os dados utilizados no trabalho foram todos simulados baseados em alunos do campus IFES SERRA.
+	A inserção deles foram todas feitas de maneira manual através do SQL do link abaixo.
+	Optamos pela simulação dos dados visto que não encontramos nem um banco pronto que encaixasse bem com a tematica escolhida e modelo adotado
+	<a href="https://github.com/calosguilherme/trab01/blob/master/sqlinsert.sql">LINK</a>
+	
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
