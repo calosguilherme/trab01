@@ -53,3 +53,13 @@ VALUES	('abacaxi', 1, 'Carlos', 'carlos@email.com.br', FALSE, '3333-3333'),
 ('anckei', 9, 'Vinicius', 'vinicius@email.com.br', FALSE, '3238-0000'),
 ('axlsnei', 10, 'Vitor', 'vitor@email.com.br', FALSE, '3355-1000'),
 ('adminadmin', 11, 'administrador', 'admin@email.com.br', TRUE, '5555-1346');
+
+INSERT into ADICIONA(codAtividade, codPessoa, codCat)
+values	(2,2,1),
+(3,3,1),
+(4,4,2),
+(5,5,3),
+(6,6,4),
+(7,7,1),
+(8,8,2),
+(9,9,3);
