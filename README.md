@@ -156,10 +156,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.5	[ATUALIZAÇÃO E EXCLUSÃO DE DADOS] (https://github.com/calosguilherme/trab01/blob/master/9.5/9.5.md)<br>
 
-####9.6	CONSULTAS COM JUNÇÃO<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/m.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/n.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/o.png?raw=true  "Resultado")<br>
+####9.6	[CONSULTAS COM JUNÇÃO](https://github.com/calosguilherme/trab01/blob/master/9.6/9.6.md)<br>
+
 ####9.7	CONSULTAS COM GROUP BY<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/p.png?raw=true  "Resultado")<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/q.png?raw=true  "Resultado")<br>
