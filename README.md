@@ -146,10 +146,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 	
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
-####9.1	[CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS](https://github.com/calosguilherme/trab01/blob/master/9.1/9.1.md)
+####9.1	[CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS](https://github.com/calosguilherme/trab01/blob/master/9.1/9.1.md)<br>
 
-
-<br>
 ####9.2	[CONSULTAS DAS TABELAS COM FILTROS WHERE](https://github.com/calosguilherme/trab01/blob/master/9.2/9.2.md)<br>
 
 ####9.3	[CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS](https://github.com/calosguilherme/trab01/blob/master/9.3/9.3.md)<br>
