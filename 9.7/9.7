@@ -1,0 +1,3 @@
+select * from PESSOA where nome like '__a%' group by pessoa.senha, pessoa.codpessoa;
+select nome as Nove, codPessoa as Codigo from PESSOA where nome like '%e' group by pessoa.senha, pessoa.codpessoa;;
+select nome, codPessoa from PESSOA where nome not like '%a%' group by pessoa.senha, pessoa.codpessoa;

@@ -1,0 +1,3 @@
+select nome, PESSOA.codPessoa, matricula from PESSOA inner join ALUNO on (PESSOA.codPessoa = ALUNO.codPessoa); 
+select PESSOA.nome, PESSOA.email, ALUNO.matricula from PESSOA inner join ALUNO on (PESSOA.codPessoa = ALUNO.codPessoa);
+select PESSOA.nome, PESSOA.email, ALUNO.matricula, ARQUIVO.arquivodocumento, ARQUIVO.observacao from PESSOA inner join ALUNO on (PESSOA.codPessoa = ALUNO.codPessoa)inner join ARQUIVO on (ALUNO.matricula = ARQUIVO.matricula) where ALUNO.codPessoa > 6;  

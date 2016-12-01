@@ -1,0 +1,7 @@
+9.1
+select * from PESSOA;
+select * from ALUNO;
+select * from ARQUIVO;
+select * from ATIVIDADE;
+select * from ADICIONA;
+select * from CATEGORIA;

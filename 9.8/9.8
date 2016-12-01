@@ -1,0 +1,2 @@
+select PESSOA.nome, ALUNO.codPessoa from PESSOA left join ALUNO on (PESSOA.codPessoa = ALUNO.codPessoa) where PESSOA.codPessoa > 3; 
+select PESSOA.nome, ALUNO.codPessoa from PESSOA right join ALUNO on (PESSOA.codPessoa = ALUNO.codPessoa) where PESSOA.codPessoa <= 3; 
