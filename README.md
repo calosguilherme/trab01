@@ -158,17 +158,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.6	[CONSULTAS COM JUNÇÃO](https://github.com/calosguilherme/trab01/blob/master/9.6/9.6.md)<br>
 
-####9.7	CONSULTAS COM GROUP BY<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/p.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/q.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/r.png?raw=true  "Resultado")<br>
-####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/s.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/t.png?raw=true  "Resultado")<br>
-####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/u.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/v.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/x.png?raw=true  "Resultado")<br>
+####9.7	[CONSULTAS COM GROUP BY](https://github.com/calosguilherme/trab01/blob/master/9.7/9.7.md)<br>
+
+####9.8	[CONSULTAS COM LEFT E RIGHT JOIN](https://github.com/calosguilherme/trab01/blob/master/9.8/9.8.md)<br>
+
+####9.9	[CONSULTAS COM SELF JOIN E VIEW](https://github.com/calosguilherme/trab01/blob/master/9.9/9.9.md)<br>
+
 ####9.10	SUBCONSULTAS<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
