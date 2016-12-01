@@ -152,10 +152,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.3	[CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS](https://github.com/calosguilherme/trab01/blob/master/9.3/9.3.md)<br>
 
-####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/h.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/i.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/j.png?raw=true  "Resultado")<br>
+####9.4	[CONSULTAS QUE USAM OPERADORES LIKE] (https://github.com/calosguilherme/trab01/blob/master/9.4/9.4.md)<br>
+
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/l.png?raw=true  "Resultado")<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/k.png?raw=true  "Resultado")<br>
