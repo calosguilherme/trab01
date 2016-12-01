@@ -146,13 +146,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 	
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
-####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/1.png?raw=true  "Resultado")<br>
----------------------------------------------------------------------------------------------
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/2.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/5.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/aluno.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/atividade.png?raw=true  "Resultado")<br>
+####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>[a link](https://github.com/calosguilherme/trab01/blob/master/9.1/9.1.md)
+
+
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/6.png?raw=true  "Resultado")<br>
