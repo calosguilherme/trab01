@@ -154,10 +154,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.4	[CONSULTAS QUE USAM OPERADORES LIKE] (https://github.com/calosguilherme/trab01/blob/master/9.4/9.4.md)<br>
 
-####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/l.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/k.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/z.png?raw=true  "Resultado")<br>
+####9.5	[ATUALIZAÇÃO E EXCLUSÃO DE DADOS] (https://github.com/calosguilherme/trab01/blob/master/9.5/9.5.md)<br>
+
 ####9.6	CONSULTAS COM JUNÇÃO<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/m.png?raw=true  "Resultado")<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/n.png?raw=true  "Resultado")<br>
