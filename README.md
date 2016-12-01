@@ -150,13 +150,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 <br>
-####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/6.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/7.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/8.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/9.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/a.png?raw=true  "Resultado")<br>
-![Alt text](https://github.com/calosguilherme/trab01/blob/master/b.png?raw=true  "Resultado")<br>
+####9.2	[CONSULTAS DAS TABELAS COM FILTROS WHERE](https://github.com/calosguilherme/trab01/blob/master/9.2/9.2.md)<br>
+
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/c.png?raw=true  "Resultado")<br>
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/d.png?raw=true  "Resultado")<br>
