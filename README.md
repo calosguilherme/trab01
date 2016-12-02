@@ -167,8 +167,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ####9.9	[CONSULTAS COM SELF JOIN E VIEW](https://github.com/calosguilherme/trab01/blob/master/9.9/9.9.md)<br>
 
 ####9.10	[SUBCONSULTAS](https://github.com/calosguilherme/trab01/blob/master/9.10.MD)<br>
-###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+###10	[ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES](https://github.com/calosguilherme/trab01/blob/master/Apresenta%C3%A7%C3%A3o.pptx)<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+	Foram encontradas algumas dificuldades na implementação do modelo lógico, em questão das cardinalidades,
+	pois a primeira vista é um pouco confuso a ordem dos relacionamentos.
+	
+	Instalação e configuração do PostgreSQL
+	
+	Utilização inicial do Github
+
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
