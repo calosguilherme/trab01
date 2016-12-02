@@ -21,8 +21,10 @@ Consultas sobre as atividades complementares podem ser feitas pela internet, tan
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
+
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
+	Caso queira acessar o modelo completo clique [AQUI](https://github.com/calosguilherme/trab01/blob/master/CA.pdf)
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/c1.PNG?raw=true https://github.com/calosguilherme/trab01/blob/master/c2.PNG?raw=true "Title")
 
 
