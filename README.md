@@ -24,7 +24,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-	Caso queira acessar o modelo completo clique [AQUI](https://github.com/calosguilherme/trab01/blob/master/CA.pdf)
+	Caso queira acessar o modelo completo clique [AQUI] (https://github.com/calosguilherme/trab01/blob/master/CA.pdf)
 ![Alt text](https://github.com/calosguilherme/trab01/blob/master/c1.PNG?raw=true https://github.com/calosguilherme/trab01/blob/master/c2.PNG?raw=true "Title")
 
 
