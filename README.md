@@ -164,7 +164,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.9	[CONSULTAS COM SELF JOIN E VIEW](https://github.com/calosguilherme/trab01/blob/master/9.9/9.9.md)<br>
 
-####9.10	SUBCONSULTAS<br>
+####9.10	[SUBCONSULTAS](https://github.com/calosguilherme/trab01/blob/master/9.10.MD)<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
