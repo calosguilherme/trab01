@@ -178,6 +178,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/<br>
 
-###13  [TRABALHO 2 - MINERAÇÃO DE DADOS -](https://POE-O-LINK-DOS-SLIDES-AQUI-MONGOLAO.soudoente.br)
+###13  [TRABALHO 2 - MINERAÇÃO DE DADOS -](https://github.com/calosguilherme/trab01/blob/master/Apresenta%C3%A7%C3%A3o.pptx)
 
 
