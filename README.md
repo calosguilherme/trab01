@@ -176,8 +176,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 	
 	Utilização inicial do Github
 
-###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/<br>
 
-
+###13  [TRABALHO 2 - MINERAÇÃO DE DADOS -](https://POE-O-LINK-DOS-SLIDES-AQUI-MONGOLAO.soudoente.br)
 
 
