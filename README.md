@@ -122,6 +122,24 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 	codCat INTEGER,
 	PRIMARY KEY(codAtividade,codPessoa,codCat)
 	);
+	
+	CREATE TABLE twitter(
+	  "Vertex 1" VARCHAR(200)
+	, "Vertex 2" VARCHAR(200)
+	, Relationship VARCHAR(200)
+	, "RelationshipDate " VARCHAR(200)
+	, Tweet VARCHAR(200)
+	, URLsinTweet VARCHAR(296)
+	, DomainsinTweet VARCHAR(200)
+	, HashtagsinTweet VARCHAR(200)
+	, TweetDateUTC VARCHAR(200)
+	, TwitterPageforTweet VARCHAR(200)
+	, Latitude BOOLEAN
+	, Longitude BOOLEAN
+	, ImportedID VARCHAR(200)
+	, InReplyToTweetID VARCHAR(200)
+	);
+
 
 	ALTER TABLE ARQUIVO ADD FOREIGN KEY(matricula) REFERENCES ALUNO (matricula);
 	ALTER TABLE ARQUIVO ADD FOREIGN KEY(codAtividade) REFERENCES ATIVIDADE (codAtividade);
