@@ -4,7 +4,8 @@ Trabalho desenvolvido durante a disciplina de BD
 #Sumário
 
 ###1	COMPONENTES<br>
-Carlos Guilherme e Doulgas Inacio<br>
+Carlos Guilherme: carlosguilhermepedroni@gmail.com<br>
+Doulgas Inacio<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
 Com o avanço da tecnologia hoje em dia, as empresas estão cada vez mais investindo em softwares para melhorar o desenvolvimento da própria empresa e também para agilizar o trabalho de muitos de seus empregados. Mas ainda há algumas empresas que não se adaptaram a essas tecnologias. Este sistema visa melhorar e agilizar o trabalho de contagem e verificação de atividades complementares de alunos do curso superior. Com o apoio da equipe pedagógica foi possível desenvolver esse sistema de atividades complementares. Um sistema de informação que auxilie o núcleo pedagógico a controlar as atividades complementares dos alunos do curso superior, facilitando o envio por parte de alunos, agilizando o processo e o deixando mais flexivel.<br>
@@ -179,5 +180,5 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/<br>
 
 ###13  [TRABALHO 2 - MINERAÇÃO DE DADOS -](https://github.com/calosguilherme/trab01/blob/master/Apresenta%C3%A7%C3%A3o.pptx)
-
+#####[TABELAS DOS DADOS MINERADOS](https://github.com/calosguilherme/trab01/blob/master/trabalho%20bd.xlsx)
 
